@@ -8,11 +8,11 @@
             "type": "assets"
         }
     },
-    "dfx": "0.17.0",
+    "dfx": "0.18.0",
     "version": 1,
     "networks": {
         "local": {
-            "bind": "0.0.0.0:8000",
+            "bind": "localhost:8000",
             "type": "ephemeral"
         }
     }
